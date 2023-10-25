@@ -1,0 +1,15 @@
+{
+  "name": "EventManager",
+  "version": "1.0.0",
+  "description": "Kevin's Event Manager",
+  "main": "index.js",
+  "author": "Shiyuan Zhou",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  }
+}
